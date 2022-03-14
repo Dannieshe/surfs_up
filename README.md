@@ -5,6 +5,7 @@ The purpose of this analysis is to discover temperature trends in Oahu during th
 
 ## Results
 The following pictures show the statistics for the month of June and December respectively 
+
 ![June temp stats](https://user-images.githubusercontent.com/95733724/158139022-99ca7ae8-e316-4674-aa3d-8a47a39bd093.png)
 
 
